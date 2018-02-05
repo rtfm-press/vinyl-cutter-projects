@@ -1,0 +1,5 @@
+{
+    "plugins": [
+        "asciidoc-include@0.1.8"
+    ]
+}
